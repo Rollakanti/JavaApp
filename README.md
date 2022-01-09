@@ -11,4 +11,4 @@ mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -Darchetyp
 edit for practising
 hello world
 09/01/22 22.47
-
+09/01/22 23:02
